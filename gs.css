@@ -25,3 +25,14 @@ p {
 
 
 }
+
+.table {
+    border: thick;
+    color:azure;
+    text-align: center;
+    margin: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
