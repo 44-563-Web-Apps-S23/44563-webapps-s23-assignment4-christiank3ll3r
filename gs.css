@@ -41,5 +41,6 @@ tr:nth-child(even) {
 
 h3.hover {
     color: gray;
-    filter:blur(1px);
+    filter:blur(10px);
+    border: blanchedalmond;
 }
